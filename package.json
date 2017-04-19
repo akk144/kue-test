@@ -1,0 +1,25 @@
+{
+  "name": "kue-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akk144/kue-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akk144/kue-test/issues"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "kue": "^0.11.5",
+    "kue-ui": "^0.1.0",
+    "redis": "^2.6.3"
+  },
+  "homepage": "https://github.com/akk144/kue-test#readme"
+}
